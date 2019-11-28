@@ -18,4 +18,4 @@ The format is path image_path x_min, y_min, x_max, y_max, class_id  x_min, y_min
 7.speed_benchmark.ipynb: Get the speed score from co-lab.
 
 # Result
-![image]https://github.com/vbnmzxc9513/Yolo_v3_hw3/blob/master/test.png
+![image] https://github.com/vbnmzxc9513/Yolo_v3_hw3/blob/master/test.png
