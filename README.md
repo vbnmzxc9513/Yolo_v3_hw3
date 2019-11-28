@@ -1,5 +1,5 @@
 # Yolo_v3_hw3
-Heavy Reference from: https://github.com/YunYang1994/tensorflow-yolov3
+Heavily Reference from: https://github.com/YunYang1994/tensorflow-yolov3
 
 Training Process
 1.mat2txt.m: change .mat to .txt to build annotation. 
