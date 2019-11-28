@@ -20,7 +20,7 @@ if gpus:
 
 
 #X1 Y1 X2 Y2
-test_img = listdir('./test2/')
+test_img = listdir('./test/')
 return_elements = ["input/input_data:0", "pred_sbbox/concat_2:0", "pred_mbbox/concat_2:0", "pred_lbbox/concat_2:0"]
 pb_file         = "./yolov3_num.pb"
 image_path      = "./train/5.png"
