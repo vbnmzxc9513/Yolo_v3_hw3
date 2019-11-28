@@ -22,4 +22,5 @@ The format is path image_path x_min, y_min, x_max, y_max, class_id  x_min, y_min
 
 # Speed (Colab GPU)
 ![image](https://github.com/vbnmzxc9513/Yolo_v3_hw3/blob/master/speed_benchmark.bmp)
+
 very slow...
